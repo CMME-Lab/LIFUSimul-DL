@@ -1,7 +1,7 @@
 # Acoustic Simulation with Deep Learning for Low-intensity Transcranial Focused Ultrasound Digital Twins
 
 ## Overview
-This repository contains the official implementation of  **"Acoustic Simulation with Deep Learning for Low-intensity Transcranial Focused Ultrasound Digital Twins**", accepted to the _Digital Twin for Healthcare 2025 (at MICCAI 2025)_.
+This repository contains the official implementation of  **"Acoustic Simulation with Deep Learning for Low-intensity Transcranial Focused Ultrasound Digital Twins**", accepted to the _Workshop on Digital Twin for Healthcare 2025 (at MICCAI 2025)_.
 
 <p align="center">
   <img width="1143" height="534" alt="Image" src="https://github.com/user-attachments/assets/6a35a1e6-1e27-4fb9-a2c4-6d3ef4c99c89"/>
