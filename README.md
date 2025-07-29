@@ -54,7 +54,7 @@ Run the evaluation using `test.py`.
 
 ## Authors
 - **Minjee Seo**, School of Mathematics and Computing (Computational Science and Engineering), Yonsei University, Seoul, Republic of Korea
-- **Minwoo Shin**, Division of Software, Yonsei University, Wonju, Republic of Korea
+- **Minwoo Shin**, Department of Software, Yonsei University, Wonju, Republic of Korea
 - **Gunwoo Noh**, School of Mechanical Engineering, Korea University, Seoul, Republic of Korea
 - **Seung-Schik Yoo**, Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA
 - **Kyungho Yoon**, School of Mathematics and Computing (Computational Science and Engineering), Yonsei University, Seoul, Republic of Korea
