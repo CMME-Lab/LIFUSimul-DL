@@ -11,7 +11,7 @@ This repository contains the official implementation of  **"Acoustic Simulation 
 - CNN-based Autoencoder and U-Net
 - Swin Transformer-based U-Net
 - Python codes for training, evaluation, loading dataset
-- [Pre-trained model weights](https://drive.google.com/file/d/1pE-xqcxV8AOtBDFlODUCiRsf2kdIvwIs/view?usp=sharing)
+- [Pre-trained model weights](https://drive.google.com/drive/folders/1IT0JOh9819Eo5B5ovuIkgjQV6c1pTUvJ?usp=drive_link)
 > Note: Dataset is not provided due to privacy concerns.
 
 ## 0. Installation
