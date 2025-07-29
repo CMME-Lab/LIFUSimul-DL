@@ -53,11 +53,11 @@ Run the evaluation using `test.py`.
 `python test.py --run_name my_experiments --modality ct --model swin --cuda --plot`
 
 ## Authors
-- **Minjee Seo**, School of Mathamatics and Computing (Computational Science and Engineering), Yonsei University, Seoul, Republic of Korea
+- **Minjee Seo**, School of Mathematics and Computing (Computational Science and Engineering), Yonsei University, Seoul, Republic of Korea
 - **Minwoo Shin**, Division of Software, Yonsei University, Wonju, Republic of Korea
 - **Gunwoo Noh**, School of Mechanical Engineering, Korea University, Seoul, Republic of Korea
 - **Seung-Schik Yoo**, Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA
-- **Kyungho Yoon**, School of Mathamatics and Computing (Computational Science and Engineering), Yonsei University, Seoul, Republic of Korea
+- **Kyungho Yoon**, School of Mathematics and Computing (Computational Science and Engineering), Yonsei University, Seoul, Republic of Korea
 
 
 ## Acknowledgement
